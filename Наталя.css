@@ -1,0 +1,18 @@
+body{
+ color:blak;
+}
+
+fieldset{
+ width:350px;
+}
+
+button{
+ margin-top:15px;
+ background-color:gray;
+ border:2px solid black;
+}
+
+button:hover{
+ background-color:silver;
+ color:blue;
+}
